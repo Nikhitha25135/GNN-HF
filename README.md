@@ -99,12 +99,6 @@ GNN-HF/
 
 ---
 
-## 🎥 Demo
-
-_Add a short screen recording or GIF of the upload → prediction → report flow here._
-
----
-
 ## 📦 Getting Started
 
 ### Prerequisites
